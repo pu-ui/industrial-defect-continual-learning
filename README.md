@@ -16,10 +16,6 @@ This repository contains a compact implementation of a risk-aware, parameter-eff
 - `configs/example_config.yaml`: anonymized example configuration.
 - `examples/minimal_usage.py`: a small script showing the basic method calls.
 
-## Not Included
-
-This review release intentionally omits the complete training pipeline, full experiment scripts, detailed data splits, production data, model weights, logs, generated figures, manuscript files, and reviewer-response materials.
-
 ## Basic Dependencies
 
 The core modules require:
